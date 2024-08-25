@@ -1,5 +1,5 @@
 # Calculadora básica
-Este programa é uma calculadora interativa básica em Python que permite ao usuário realizar operações aritméticas básicas: soma, subtração, divisão e multiplicação.
+Este é um programa que simula uma calculadora interativa básica na linguagem Python, com operações aritméticas básicas.
 
 ## Funcionalidades: 
 * Soma
